@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <title>BlowWar AI | Ensimag&#39;s Project - Maxime Nemo Website</title><meta name="Description" content="This article shows the AI I created for the BlobWar game."><meta property="og:title" content="BlowWar AI | Ensimag&#39;s Project" />
+<meta property="og:description" content="This article shows the AI I created for the BlobWar game." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://maximene.github.io/AboutMe.github.io/posts/blob_war/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-04-06T11:05:23+02:00" />
+<meta property="article:modified_time" content="2022-04-06T11:05:23+02:00" /><meta property="og:site_name" content="Maxime Nemo personal website" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="BlowWar AI | Ensimag&#39;s Project"/>
+<meta name="twitter:description" content="This article shows the AI I created for the BlobWar game."/>
+<meta name="application-name" content="Maxime Nemo Website">
+<meta name="apple-mobile-web-app-title" content="Maxime Nemo Website"><link rel="icon" href="favicon.ico"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://maximene.github.io/AboutMe.github.io/posts/blob_war/" /><link rel="prev" href="https://maximene.github.io/AboutMe.github.io/posts/challenge2022/" /><link rel="next" href="https://maximene.github.io/AboutMe.github.io/posts/ensia_rl/" /><link rel="stylesheet" href="/AboutMe.github.io/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/AboutMe.github.io/css/style.min.css"><link rel="stylesheet" href="/AboutMe.github.io/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/AboutMe.github.io/lib/animate/animate.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "BlowWar AI | Ensimag's Project",
+        "inLanguage": "en",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/maximene.github.io\/AboutMe.github.io\/posts\/blob_war\/"
+        },"genre": "posts","keywords": "AI, Rust, Parallel computing","wordcount":  693 ,
+        "url": "https:\/\/maximene.github.io\/AboutMe.github.io\/posts\/blob_war\/","datePublished": "2022-04-06T11:05:23+02:00","dateModified": "2022-04-06T11:05:23+02:00","publisher": {
+            "@type": "Organization",
+            "name": "Maxime"},"author": {
+                "@type": "Person",
+                "name": "Maxime"
+            },"description": "This article shows the AI I created for the BlobWar game."
+    }
+    </script></head>
+    <body header-desktop="fixed" header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/AboutMe.github.io/" title="Maxime Nemo Website"><span class="header-title-pre"><img src="https://img.icons8.com/ios/50/undefined/laptop-coding.png"/></span><span id="id-1" class="typeit"></span></a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/AboutMe.github.io/posts/" title="Discover what I do"> My Work </a><a class="menu-item" href="/AboutMe.github.io/posts/school_curriculum/" title="Discover what I learned"> School Curriculum </a><a class="menu-item" href="/AboutMe.github.io/tags/" title="Find content by tags"> Tags </a><a class="menu-item" href="/AboutMe.github.io/resume.pdf" title="Check my resume"> View Resume </a><a class="menu-item" href="/AboutMe.github.io/aboutme" title="Learn more about me"> About Me </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                    <i class="fas fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/AboutMe.github.io/" title="Maxime Nemo Website"><span class="header-title-pre"><img src="https://img.icons8.com/ios/50/undefined/laptop-coding.png"/></span><span id="id-2" class="typeit"></span></a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/AboutMe.github.io/posts/" title="Discover what I do">My Work</a><a class="menu-item" href="/AboutMe.github.io/posts/school_curriculum/" title="Discover what I learned">School Curriculum</a><a class="menu-item" href="/AboutMe.github.io/tags/" title="Find content by tags">Tags</a><a class="menu-item" href="/AboutMe.github.io/resume.pdf" title="Check my resume">View Resume</a><a class="menu-item" href="/AboutMe.github.io/aboutme" title="Learn more about me">About Me</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a></div>
+    </div>
+</header>
+<div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+</div>
+<main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">Contents</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animated flipInX">BlowWar AI | Ensimag&#39;s Project</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="/AboutMe.github.io/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>Maxime</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2022-04-06">2022-04-06</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;693 words&nbsp;
+                <i class="far fa-clock fa-fw"></i>&nbsp;4 minutes&nbsp;</div>
+        </div><div class="details toc" id="toc-static"  kept="">
+                <div class="details-summary toc-title">
+                    <span>Contents</span>
+                    <span><i class="details-icon fas fa-angle-right"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#the-game">The game</a></li>
+    <li><a href="#the-ai-for-blobwar">The AI for BlobWar</a>
+      <ul>
+        <li><a href="#greedy-algorithm">Greedy algorithm</a></li>
+        <li><a href="#minmax-algorithm">MinMax algorithm</a></li>
+        <li><a href="#alpha-beta-pruning">Alpha-Beta pruning</a></li>
+      </ul>
+    </li>
+    <li><a href="#parallel-version">Parallel version</a>
+      <ul>
+        <li><a href="#minmax-parallel-algorithm">MinMax parallel algorithm</a></li>
+        <li><a href="#alpha-beta-pruning-in-parallel">Alpha-Beta pruning in parallel</a></li>
+      </ul>
+    </li>
+    <li><a href="#more-details">More details</a></li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><h2 id="the-game">The game</h2>
+<p>Blobwar is played on an 8x8 chessboard where two players (blue and red) compete. Each player has a set of pieces called blobs. The game is played turn by turn. Each turn, whenever possible, the current player chooses a blob and moves it. Any move to an adjacent square (including diagonally) sees the blob duplicated on the target square. It is also possible to jump to a distance of 2 squares, but in this case the blob moves from the starting square to the target square (so there is no duplication). After the move, you look at the squares directly next to the arrival square and all the opposing blobs on these squares change color.</p>
+<h2 id="the-ai-for-blobwar">The AI for BlobWar</h2>
+<h3 id="greedy-algorithm">Greedy algorithm</h3>
+<p>The first idea was to create the most simple bot for the game using a <a href="https://en.wikipedia.org/wiki/Greedy_algorithm" target="_blank" rel="noopener noreffer">greedy</a> algorithm. This kind of algo chose the move that will give the best instantaneous result. Since this is the most simple solution possible, every self-respecting developer has to explore other solutions</p>
+<h3 id="minmax-algorithm">MinMax algorithm</h3>
+<p>The <a href="https://en.wikipedia.org/wiki/Minimax" target="_blank" rel="noopener noreffer">MinMax</a> algorithm is quite simple but it still compute the best move that minimize the worst possible score.<br>
+More precisely, it computes the minimax value. It represents the smallest score that we can expect without knowing the move of the enemy player. Thus, even if the enemy chose the best move, we can be sure that we will get at least a score of the minimax value.<br>
+The minimax value is defined as follows:<br>
+$$minimaxvalue = \min_{a_{-i}}\max_{a_i}v_i(a_i, a_{-i})$$
+where :</p>
+<ul>
+<li>$i$ is the index of the player of interest.</li>
+<li>$-i$ denotes all other players except player $i$.</li>
+<li>$a_{i}$ is the action taken by player $i$.</li>
+<li>$a_{{-i}}$ denotes the actions taken by all other players.</li>
+<li>$v_{i}$ is the value function of player $i$</li>
+</ul>
+<p>The real issue with this algorithm is that is needs to explore every single possibility to find the best move. However, we want a fast algorithm&hellip;</p>
+<h3 id="alpha-beta-pruning">Alpha-Beta pruning</h3>
+<p><a href="https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning" target="_blank" rel="noopener noreffer">Alpha–Beta</a> pruning is a search algorithm that seeks to decrease the number of nodes that are evaluated by the MinMax algorithm in its search tree.<br>
+It stops evaluating a move when at least one possibility has been found that proves the move to be worse than a previously examined move. Such moves need not be evaluated further.<br>
+When applied to a standard minimax tree, it returns the same move as minimax would, but prunes away branches that cannot possibly influence the final decision.</p>
+<p>I used this algorithm to make the bot faster. When considering a max depth of 5 for the search tree, the Alpha-Beta pruning is 10x faster than the MinMax algorithm</p>
+<h2 id="parallel-version">Parallel version</h2>
+<h3 id="minmax-parallel-algorithm">MinMax parallel algorithm</h3>
+<p>Since the evaluation of the value of each child of a node is independent of the value of the value of the other children, we can compute the value of each child in parallel.<br>
+We can then create a parallel version of the Min-Max algorithm.<br>
+I implemented this version using the <a href="https://docs.rs/rayon/latest/rayon/" target="_blank" rel="noopener noreffer">rayon</a> library for rust.</p>
+<h3 id="alpha-beta-pruning-in-parallel">Alpha-Beta pruning in parallel</h3>
+<p>The Alpha-Beta algorithm is, by its structure, sequential.
+We can have several approaches to try to make a parallel version:</p>
+<ul>
+<li>We can imagine using mutex to ensure valid writes and reads of the values 𝛼 and 𝛽.
+We could then in a similar way to the parallel Min-Max algorithm compute the value of each state in parallel up to a given depth and terminate sequentially (still using mutexes).
+However, using mutexes necessarily involves threads that would be blocked and queued, and thus performance will be reduced.</li>
+<li>Another approach would be to compute a value of 𝛼 and 𝛽 on a few first threads of the initial state sequentially and use these values as initializations for the other threads, for which, this time, we could evaluate their value in parallel considering that each thread has its own 𝛼 and 𝛽 which already have a large enough value to hope to prune the subtrees faster.</li>
+<li>Finally, the version implemented for lack of time and simply exploring
+each child to a given depth and then initialize a sequential Alpha-Beta</li>
+</ul>
+<h2 id="more-details">More details</h2>
+<p>A more precise report of this project with peformance analysis is available <a href="/AboutMe.github.io/posts/blob_war/report.pdf" rel="">here</a> in french</p>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>Updated on 2022-04-06</span>
+            </div>
+            <div class="post-info-license"></div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md"></div>
+            <div class="post-info-share">
+                <span></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/AboutMe.github.io/tags/ai/">AI</a>,&nbsp;<a href="/AboutMe.github.io/tags/rust/">Rust</a>,&nbsp;<a href="/AboutMe.github.io/tags/parallel-computing/">Parallel computing</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/AboutMe.github.io/">Home</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/AboutMe.github.io/posts/challenge2022/" class="prev" rel="prev" title="Challenge Neovision x Ens&#39;IA 2022"><i class="fas fa-angle-left fa-fw"></i>Challenge Neovision x Ens&#39;IA 2022</a>
+            <a href="/AboutMe.github.io/posts/ensia_rl/" class="next" rel="next" title="Ens&#39;IA : Reinforcement Learning course">Ens&#39;IA : Reinforcement Learning course<i class="fas fa-angle-right fa-fw"></i></a></div>
+</div>
+</article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line">Maxime NEMO website, built with <3 and Hugo</div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2020 - 2022</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/AboutMe.github.io/" target="_blank">Maxime NEMO</a></span></div>
+        </div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
+                <i class="fas fa-arrow-up fa-fw"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
+                <i class="fas fa-comment fa-fw"></i>
+            </a>
+        </div><link rel="stylesheet" href="/AboutMe.github.io/lib/katex/katex.min.css"><link rel="stylesheet" href="/AboutMe.github.io/lib/cookieconsent/cookieconsent.min.css"><script type="text/javascript" src="/AboutMe.github.io/lib/smooth-scroll/smooth-scroll.min.js"></script><script type="text/javascript" src="/AboutMe.github.io/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/AboutMe.github.io/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/AboutMe.github.io/lib/typeit/typeit.min.js"></script><script type="text/javascript" src="/AboutMe.github.io/lib/katex/katex.min.js"></script><script type="text/javascript" src="/AboutMe.github.io/lib/katex/auto-render.min.js"></script><script type="text/javascript" src="/AboutMe.github.io/lib/cookieconsent/cookieconsent.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":10},"comment":{},"cookieconsent":{"content":{"dismiss":"Got it!","link":"Learn more","message":"This website uses Cookies to improve your experience."},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"data":{"id-1":"Maxime NEMO","id-2":"Maxime NEMO"},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"typeit":{"cursorChar":null,"cursorSpeed":null,"data":{"id-1":["id-1"],"id-2":["id-2"]},"duration":null,"speed":null}};</script><script type="text/javascript" src="/AboutMe.github.io/js/theme.min.js"></script><script type="text/javascript">
+            window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());
+            gtag('config', 'G-ZYFQ7MV2V5', { 'anonymize_ip': true });
+        </script><script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-ZYFQ7MV2V5" async></script></body>
+</html>

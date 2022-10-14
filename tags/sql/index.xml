@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>SQL - Tag - Maxime Nemo Website</title>
+        <link>https://maximene.github.io/AboutMe.github.io/tags/sql/</link>
+        <description>SQL - Tag - Maxime Nemo Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Fri, 31 Dec 2021 10:29:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/AboutMe.github.io/tags/sql/" rel="self" type="application/rss+xml" /><item>
+    <title>Database for an e-commerce company | Ensimag&#39;s Project</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/database_project/</link>
+    <pubDate>Fri, 31 Dec 2021 10:29:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/database_project/</guid>
+    <description><![CDATA[The project The e-commerce company for individuals, Gange, wants us to set up a database to better manage the products they offer for sale.
+The sales are based auction mode:
+Users make increasing bids on available products and the 5th bid wins. The auction mode is not important, it can should changed easily, and is not known by Gange&rsquo;s customers. The products are categorized and and a recommendation mode should be implemented.]]></description>
+</item></channel>
+</rss>

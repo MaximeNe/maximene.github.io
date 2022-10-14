@@ -1,0 +1,44 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Python - Tag - Maxime Nemo Website</title>
+        <link>https://maximene.github.io/AboutMe.github.io/tags/python/</link>
+        <description>Python - Tag - Maxime Nemo Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Wed, 03 Nov 2021 17:40:42 &#43;0100</lastBuildDate><atom:link href="https://maximene.github.io/AboutMe.github.io/tags/python/" rel="self" type="application/rss+xml" /><item>
+    <title>Virtual Drag and Drop using hand</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/virtual_drag_and_drop/</link>
+    <pubDate>Wed, 03 Nov 2021 17:40:42 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/virtual_drag_and_drop/</guid>
+    <description><![CDATA[VirtualDragAndDrop I was kind of bored a week end so I wanted to do something that will be absolutely never used again 🙃.
+This little project allowed me to get in touch with OpenCV and image processing.
+The program I built creates a virtual drag and drop on objects represented by their centers. I used rectangle for this example.
+To use the program, just run the file main.py. Then to move an object, you have to &ldquo;grab it&rdquo; = close your hand when your hand is on the object.]]></description>
+</item><item>
+    <title>Challenge DATA &amp; AI by Ens&#39;IA and Neovision</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/challenge_data_ia/</link>
+    <pubDate>Fri, 06 Aug 2021 11:05:23 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/challenge_data_ia/</guid>
+    <description><![CDATA[The challenge: This challenge was organized by Ens&rsquo;IA and Neovision in 2021. It lasted a month and a half and was about the well known subject of Optical Character Recognition (OCR).
+What is OCR ? It&rsquo;s about converting images of typed, handwritten or printed text into machine-encoded text. Learn more ➡️ The goal was quite simple but still very challenging:
+building the best model to recognize the characters in the dataset given by Neovision.]]></description>
+</item><item>
+    <title>Size of Connex Components in unoriented 2D graph | Ensimag&#39;s Project</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/connex_components/</link>
+    <pubDate>Tue, 13 Apr 2021 23:02:18 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/connex_components/</guid>
+    <description><![CDATA[The project Considering a set of points $p_i$, $1 \le i \le n$, and a limit distance $s$, we want to know the number a connex component of the given set of points and distance.
+Two vertices $p_i$ and $p_j$ are linked by an edge if $d(p_i, p_j) \le s$. A connex component is a sub-graph where all the vertices are linked by transitivity. A solution I worked in pair with Hugo on different methods.]]></description>
+</item><item>
+    <title>TodoList implementation</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/todolist/</link>
+    <pubDate>Thu, 01 Oct 2020 21:01:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/todolist/</guid>
+    <description><![CDATA[The project I always wanted to have a todolist on my desktop (I use Gnome). I made few research for widget on the internet, did not find what I was looking for, so I decided to make my own.
+I wanted something that does not consume too much power, that is easy to use (as fast as possible to add something in a terminal) and free.
+What I built I have chosen to create a todolist that actually changes the background of my computer, so that the consumption of my todolist is down to 0 when I am not changing anything.]]></description>
+</item></channel>
+</rss>

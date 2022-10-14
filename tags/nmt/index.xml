@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>NMT - Tag - Maxime Nemo Website</title>
+        <link>https://maximene.github.io/AboutMe.github.io/tags/nmt/</link>
+        <description>NMT - Tag - Maxime Nemo Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Fri, 29 Jul 2022 21:01:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/AboutMe.github.io/tags/nmt/" rel="self" type="application/rss+xml" /><item>
+    <title>Research internship - Direction du Numérique Université de Bourgogne</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/stage_nlp/</link>
+    <pubDate>Fri, 29 Jul 2022 21:01:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/stage_nlp/</guid>
+    <description><![CDATA[I worked as an intern for the Direction du Numérique of the Université de Bourgogne for 10 weeks. It was the perfect oportunity for me to work on a real project and to learn more about what is research, but also to learn more about AI, and especially NLP.
+The first project I was asked to create a new dataset about tourism to upgrade the idiomaticity of an animated conversational agent that will be used in the 2024 Paris Olympic Games.]]></description>
+</item></channel>
+</rss>

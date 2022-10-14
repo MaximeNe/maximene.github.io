@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>C - Tag - Maxime Nemo Website</title>
+        <link>https://maximene.github.io/AboutMe.github.io/tags/c/</link>
+        <description>C - Tag - Maxime Nemo Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Tue, 01 Jun 2021 10:29:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/AboutMe.github.io/tags/c/" rel="self" type="application/rss+xml" /><item>
+    <title>Jpeg decoder to PPM | Ensimag&#39;s Project</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/jpeg_decoder/</link>
+    <pubDate>Tue, 01 Jun 2021 10:29:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/jpeg_decoder/</guid>
+    <description><![CDATA[The project This project is about building from scratch a functional JPEG to PPM decoder. I teamed up with 2 other students to build the decoder using C.
+How it works JPEG format compress images using mathematical methods and algorithms that are described on the official JPEG documentation.
+process of encoding and decoding Huffman coding: The output from Huffman&rsquo;s algorithm can be viewed as a variable-length code table for encoding a source symbol.]]></description>
+</item></channel>
+</rss>

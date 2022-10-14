@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Volunteering - Tag - Maxime Nemo Website</title>
+        <link>https://maximene.github.io/AboutMe.github.io/tags/volunteering/</link>
+        <description>Volunteering - Tag - Maxime Nemo Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Tue, 30 Aug 2022 21:02:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/AboutMe.github.io/tags/volunteering/" rel="self" type="application/rss+xml" /><item>
+    <title>Ens&#39;IA association</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/ensia/</link>
+    <pubDate>Tue, 30 Aug 2022 21:02:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/ensia/</guid>
+    <description><![CDATA[What is Ens&rsquo;IA Ens&rsquo;IA is a french AI association aiming to :
+Promote AI and its applications Organize with partners, companies or other student associations events and activities such as conferences, lectures, training workshops, collaborative workshops, professional-student meetings, etc. Organize AI competitions and challenges in France Promoting ethical and responsible AI You can find the free courses we offer on our github page
+My work at Ens&rsquo;IA for 2021-2022 I am the vice-president of the association.]]></description>
+</item><item>
+    <title>Challenge Neovision x Ens&#39;IA 2022</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/challenge2022/</link>
+    <pubDate>Tue, 01 Feb 2022 10:29:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/challenge2022/</guid>
+    <description><![CDATA[What is this challenge about? This is an artificial intelligence challenge organized jointly by Neovision and Ens&rsquo;IA. For the second edition of this challenge, participants had to create an AI, but don&rsquo;t panic: Neovision coaches will were there to accompany them. There were also workshops to give them additional knowledge!
+This challenge were for participants the opportunity to live a real AI project and to deepen their knowledge, but also and above all to have fun and to meet people]]></description>
+</item></channel>
+</rss>

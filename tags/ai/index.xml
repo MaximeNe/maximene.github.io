@@ -1,0 +1,77 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>AI - Tag - Maxime Nemo Website</title>
+        <link>https://maximene.github.io/AboutMe.github.io/tags/ai/</link>
+        <description>AI - Tag - Maxime Nemo Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Tue, 30 Aug 2022 21:02:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/AboutMe.github.io/tags/ai/" rel="self" type="application/rss+xml" /><item>
+    <title>Ens&#39;IA association</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/ensia/</link>
+    <pubDate>Tue, 30 Aug 2022 21:02:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/ensia/</guid>
+    <description><![CDATA[What is Ens&rsquo;IA Ens&rsquo;IA is a french AI association aiming to :
+Promote AI and its applications Organize with partners, companies or other student associations events and activities such as conferences, lectures, training workshops, collaborative workshops, professional-student meetings, etc. Organize AI competitions and challenges in France Promoting ethical and responsible AI You can find the free courses we offer on our github page
+My work at Ens&rsquo;IA for 2021-2022 I am the vice-president of the association.]]></description>
+</item><item>
+    <title>Research internship - Direction du Numérique Université de Bourgogne</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/stage_nlp/</link>
+    <pubDate>Fri, 29 Jul 2022 21:01:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/stage_nlp/</guid>
+    <description><![CDATA[I worked as an intern for the Direction du Numérique of the Université de Bourgogne for 10 weeks. It was the perfect oportunity for me to work on a real project and to learn more about what is research, but also to learn more about AI, and especially NLP.
+The first project I was asked to create a new dataset about tourism to upgrade the idiomaticity of an animated conversational agent that will be used in the 2024 Paris Olympic Games.]]></description>
+</item><item>
+    <title>Introduction to research - Analysis by Supervised Learning of CT images of pelvic fractures</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/irl/</link>
+    <pubDate>Wed, 18 May 2022 10:29:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/irl/</guid>
+    <description><![CDATA[What is that ? I had the chance to work on a real project during my studies. It was about the analysis of CT images of pelvic fractures.
+I worked one afternoon per week during one semester in the TIMC laboratory in the GMCAO team.
+Abstract Acetabular fracture (cavity in the pelvis where the head of the femur is located), generally require a CT scan to locate and classify the fractures according to their type, according to the Letournel classification.]]></description>
+</item><item>
+    <title>Ens&#39;IA : Reinforcement Learning course</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/ensia_rl/</link>
+    <pubDate>Tue, 12 Apr 2022 11:05:23 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/ensia_rl/</guid>
+    <description><![CDATA[Introduction As a member of Ens&rsquo;IA, I give lectures and lab works about artificial intelligence.
+In 2021/2022, @Hugo Cartigny and I gave lectures and lab works about
+Machine Learning with KNN and K-Means Deep learning in computer vision (perceptron, sigmoid neuron, neural networks, convolutional neural nerworks &hellip;) Data processing for computer vision As you can see, we did not talk about Reinforcement Learning yet, so I dicided to build a course about it, especially about Q-Learning]]></description>
+</item><item>
+    <title>BlowWar AI | Ensimag&#39;s Project</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/blob_war/</link>
+    <pubDate>Wed, 06 Apr 2022 11:05:23 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/blob_war/</guid>
+    <description><![CDATA[The game Blobwar is played on an 8x8 chessboard where two players (blue and red) compete. Each player has a set of pieces called blobs. The game is played turn by turn. Each turn, whenever possible, the current player chooses a blob and moves it. Any move to an adjacent square (including diagonally) sees the blob duplicated on the target square. It is also possible to jump to a distance of 2 squares, but in this case the blob moves from the starting square to the target square (so there is no duplication).]]></description>
+</item><item>
+    <title>Challenge Neovision x Ens&#39;IA 2022</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/challenge2022/</link>
+    <pubDate>Tue, 01 Feb 2022 10:29:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/challenge2022/</guid>
+    <description><![CDATA[What is this challenge about? This is an artificial intelligence challenge organized jointly by Neovision and Ens&rsquo;IA. For the second edition of this challenge, participants had to create an AI, but don&rsquo;t panic: Neovision coaches will were there to accompany them. There were also workshops to give them additional knowledge!
+This challenge were for participants the opportunity to live a real AI project and to deepen their knowledge, but also and above all to have fun and to meet people]]></description>
+</item><item>
+    <title>Virtual Drag and Drop using hand</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/virtual_drag_and_drop/</link>
+    <pubDate>Wed, 03 Nov 2021 17:40:42 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/virtual_drag_and_drop/</guid>
+    <description><![CDATA[VirtualDragAndDrop I was kind of bored a week end so I wanted to do something that will be absolutely never used again 🙃.
+This little project allowed me to get in touch with OpenCV and image processing.
+The program I built creates a virtual drag and drop on objects represented by their centers. I used rectangle for this example.
+To use the program, just run the file main.py. Then to move an object, you have to &ldquo;grab it&rdquo; = close your hand when your hand is on the object.]]></description>
+</item><item>
+    <title>Challenge DATA &amp; AI by Ens&#39;IA and Neovision</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/challenge_data_ia/</link>
+    <pubDate>Fri, 06 Aug 2021 11:05:23 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/challenge_data_ia/</guid>
+    <description><![CDATA[The challenge: This challenge was organized by Ens&rsquo;IA and Neovision in 2021. It lasted a month and a half and was about the well known subject of Optical Character Recognition (OCR).
+What is OCR ? It&rsquo;s about converting images of typed, handwritten or printed text into machine-encoded text. Learn more ➡️ The goal was quite simple but still very challenging:
+building the best model to recognize the characters in the dataset given by Neovision.]]></description>
+</item></channel>
+</rss>

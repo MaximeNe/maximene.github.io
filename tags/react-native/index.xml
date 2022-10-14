@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>React Native - Tag - Maxime Nemo Website</title>
+        <link>https://maximene.github.io/AboutMe.github.io/tags/react-native/</link>
+        <description>React Native - Tag - Maxime Nemo Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Sun, 01 May 2022 10:29:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/AboutMe.github.io/tags/react-native/" rel="self" type="application/rss+xml" /><item>
+    <title>Android App project - React Native | Ensimag&#39;s Project</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/android_app/</link>
+    <pubDate>Sun, 01 May 2022 10:29:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/android_app/</guid>
+    <description><![CDATA[The project The project was done in a team of 5 people. The goal was to deliver an Android App together with a test benchmark, a complete documentation and a functionnal backend.
+More about the project The App should allow users to create stories and share them with others. The idea is that after each paragraph, an action can be taken and then, it leads to a new paragraph. Everyone can create new paragraphs, read stories etc&hellip; depending on the permissions they have.]]></description>
+</item></channel>
+</rss>

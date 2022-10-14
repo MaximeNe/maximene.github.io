@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>RL - Tag - Maxime Nemo Website</title>
+        <link>https://maximene.github.io/AboutMe.github.io/tags/rl/</link>
+        <description>RL - Tag - Maxime Nemo Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Tue, 12 Apr 2022 11:05:23 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/AboutMe.github.io/tags/rl/" rel="self" type="application/rss+xml" /><item>
+    <title>Ens&#39;IA : Reinforcement Learning course</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/ensia_rl/</link>
+    <pubDate>Tue, 12 Apr 2022 11:05:23 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/ensia_rl/</guid>
+    <description><![CDATA[Introduction As a member of Ens&rsquo;IA, I give lectures and lab works about artificial intelligence.
+In 2021/2022, @Hugo Cartigny and I gave lectures and lab works about
+Machine Learning with KNN and K-Means Deep learning in computer vision (perceptron, sigmoid neuron, neural networks, convolutional neural nerworks &hellip;) Data processing for computer vision As you can see, we did not talk about Reinforcement Learning yet, so I dicided to build a course about it, especially about Q-Learning]]></description>
+</item></channel>
+</rss>

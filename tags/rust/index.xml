@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Rust - Tag - Maxime Nemo Website</title>
+        <link>https://maximene.github.io/AboutMe.github.io/tags/rust/</link>
+        <description>Rust - Tag - Maxime Nemo Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Wed, 06 Apr 2022 11:05:23 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/AboutMe.github.io/tags/rust/" rel="self" type="application/rss+xml" /><item>
+    <title>BlowWar AI | Ensimag&#39;s Project</title>
+    <link>https://maximene.github.io/AboutMe.github.io/posts/blob_war/</link>
+    <pubDate>Wed, 06 Apr 2022 11:05:23 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/AboutMe.github.io/posts/blob_war/</guid>
+    <description><![CDATA[The game Blobwar is played on an 8x8 chessboard where two players (blue and red) compete. Each player has a set of pieces called blobs. The game is played turn by turn. Each turn, whenever possible, the current player chooses a blob and moves it. Any move to an adjacent square (including diagonally) sees the blob duplicated on the target square. It is also possible to jump to a distance of 2 squares, but in this case the blob moves from the starting square to the target square (so there is no duplication).]]></description>
+</item></channel>
+</rss>
