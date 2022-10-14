@@ -1,78 +1,78 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - Maxime Nemo Website</title>
-        <link>https://maximene.github.io/AboutMe.github.io/tags/</link>
+        <link>https://maximene.github.io/tags/</link>
         <description>Tags - Tag - Maxime Nemo Website</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
-            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Tue, 30 Aug 2022 21:02:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/AboutMe.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Tue, 30 Aug 2022 21:02:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>AI</title>
-    <link>https://maximene.github.io/AboutMe.github.io/tags/ai/</link>
+    <link>https://maximene.github.io/tags/ai/</link>
     <pubDate>Tue, 30 Aug 2022 21:02:41 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>https://maximene.github.io/AboutMe.github.io/tags/ai/</guid>
+    <guid>https://maximene.github.io/tags/ai/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Volunteering</title>
-    <link>https://maximene.github.io/AboutMe.github.io/tags/volunteering/</link>
+    <link>https://maximene.github.io/tags/volunteering/</link>
     <pubDate>Tue, 30 Aug 2022 21:02:41 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>https://maximene.github.io/AboutMe.github.io/tags/volunteering/</guid>
+    <guid>https://maximene.github.io/tags/volunteering/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>NLP</title>
-    <link>https://maximene.github.io/AboutMe.github.io/tags/nlp/</link>
+    <link>https://maximene.github.io/tags/nlp/</link>
     <pubDate>Fri, 29 Jul 2022 21:01:41 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>https://maximene.github.io/AboutMe.github.io/tags/nlp/</guid>
+    <guid>https://maximene.github.io/tags/nlp/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>NMT</title>
-    <link>https://maximene.github.io/AboutMe.github.io/tags/nmt/</link>
+    <link>https://maximene.github.io/tags/nmt/</link>
     <pubDate>Fri, 29 Jul 2022 21:01:41 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>https://maximene.github.io/AboutMe.github.io/tags/nmt/</guid>
+    <guid>https://maximene.github.io/tags/nmt/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Research</title>
-    <link>https://maximene.github.io/AboutMe.github.io/tags/research/</link>
+    <link>https://maximene.github.io/tags/research/</link>
     <pubDate>Fri, 29 Jul 2022 21:01:41 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>https://maximene.github.io/AboutMe.github.io/tags/research/</guid>
+    <guid>https://maximene.github.io/tags/research/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Express</title>
-    <link>https://maximene.github.io/AboutMe.github.io/tags/express/</link>
+    <link>https://maximene.github.io/tags/express/</link>
     <pubDate>Sun, 01 May 2022 10:29:41 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>https://maximene.github.io/AboutMe.github.io/tags/express/</guid>
+    <guid>https://maximene.github.io/tags/express/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Node</title>
-    <link>https://maximene.github.io/AboutMe.github.io/tags/node/</link>
+    <link>https://maximene.github.io/tags/node/</link>
     <pubDate>Sun, 01 May 2022 10:29:41 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>https://maximene.github.io/AboutMe.github.io/tags/node/</guid>
+    <guid>https://maximene.github.io/tags/node/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>React Native</title>
-    <link>https://maximene.github.io/AboutMe.github.io/tags/react-native/</link>
+    <link>https://maximene.github.io/tags/react-native/</link>
     <pubDate>Sun, 01 May 2022 10:29:41 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>https://maximene.github.io/AboutMe.github.io/tags/react-native/</guid>
+    <guid>https://maximene.github.io/tags/react-native/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>RL</title>
-    <link>https://maximene.github.io/AboutMe.github.io/tags/rl/</link>
+    <link>https://maximene.github.io/tags/rl/</link>
     <pubDate>Tue, 12 Apr 2022 11:05:23 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>https://maximene.github.io/AboutMe.github.io/tags/rl/</guid>
+    <guid>https://maximene.github.io/tags/rl/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Parallel computing</title>
-    <link>https://maximene.github.io/AboutMe.github.io/tags/parallel-computing/</link>
+    <link>https://maximene.github.io/tags/parallel-computing/</link>
     <pubDate>Wed, 06 Apr 2022 11:05:23 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>https://maximene.github.io/AboutMe.github.io/tags/parallel-computing/</guid>
+    <guid>https://maximene.github.io/tags/parallel-computing/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

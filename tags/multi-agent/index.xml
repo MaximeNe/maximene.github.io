@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Multi-agent - Tag - Maxime Nemo Website</title>
-        <link>https://maximene.github.io/AboutMe.github.io/tags/multi-agent/</link>
+        <link>https://maximene.github.io/tags/multi-agent/</link>
         <description>Multi-agent - Tag - Maxime Nemo Website</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
-            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Sun, 28 Nov 2021 21:01:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/AboutMe.github.io/tags/multi-agent/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Sun, 28 Nov 2021 21:01:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/tags/multi-agent/" rel="self" type="application/rss+xml" /><item>
     <title>Multi-agent simulators | Ensimag&#39;s Project</title>
-    <link>https://maximene.github.io/AboutMe.github.io/posts/simulators/</link>
+    <link>https://maximene.github.io/posts/simulators/</link>
     <pubDate>Sun, 28 Nov 2021 21:01:41 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>https://maximene.github.io/AboutMe.github.io/posts/simulators/</guid>
+    <guid>https://maximene.github.io/posts/simulators/</guid>
     <description><![CDATA[The project With two teamates, we implemented 5 different multi-agent simulators using only java.
 Every simulator we implemented is using an event manager to handle the execution of the next step of the simulation.
 Balls simulator Ball simulator in action Cellular simulators Conway&rsquo;s game of life. Conway's game of life in action Immigration game Immigration game simulator Schelling model Schelling model simulator Boids simulator Boid simulator What is a boid simulator?]]></description>

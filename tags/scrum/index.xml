@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Scrum - Tag - Maxime Nemo Website</title>
-        <link>https://maximene.github.io/AboutMe.github.io/tags/scrum/</link>
+        <link>https://maximene.github.io/tags/scrum/</link>
         <description>Scrum - Tag - Maxime Nemo Website</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
-            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Mon, 31 Jan 2022 21:01:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/AboutMe.github.io/tags/scrum/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Mon, 31 Jan 2022 21:01:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/tags/scrum/" rel="self" type="application/rss+xml" /><item>
     <title>Software engineering project | Ensimag&#39;s Project</title>
-    <link>https://maximene.github.io/AboutMe.github.io/posts/projet_gl/</link>
+    <link>https://maximene.github.io/posts/projet_gl/</link>
     <pubDate>Mon, 31 Jan 2022 21:01:41 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>https://maximene.github.io/AboutMe.github.io/posts/projet_gl/</guid>
+    <guid>https://maximene.github.io/posts/projet_gl/</guid>
     <description><![CDATA[What is the project about ? The goal is to build in Java a compiler with no default for a language called Deca (Java like language)
 The compilation process is divided into 3 steps :
 The syntax analysis (Lexer and Parser) input : source program output : primitive abstract tree The contextual verification input : primitive abstract tree output : abstract tree decorated The code generation for an abstract machine input : abstract tree decorated output : assembly program Finally, the project is also composed of a theme of our choice.]]></description>

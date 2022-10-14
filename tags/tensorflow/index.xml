@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>TensorFlow - Tag - Maxime Nemo Website</title>
-        <link>https://maximene.github.io/AboutMe.github.io/tags/tensorflow/</link>
+        <link>https://maximene.github.io/tags/tensorflow/</link>
         <description>TensorFlow - Tag - Maxime Nemo Website</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
-            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Fri, 06 Aug 2021 11:05:23 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/AboutMe.github.io/tags/tensorflow/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Fri, 06 Aug 2021 11:05:23 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/tags/tensorflow/" rel="self" type="application/rss+xml" /><item>
     <title>Challenge DATA &amp; AI by Ens&#39;IA and Neovision</title>
-    <link>https://maximene.github.io/AboutMe.github.io/posts/challenge_data_ia/</link>
+    <link>https://maximene.github.io/posts/challenge_data_ia/</link>
     <pubDate>Fri, 06 Aug 2021 11:05:23 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>https://maximene.github.io/AboutMe.github.io/posts/challenge_data_ia/</guid>
+    <guid>https://maximene.github.io/posts/challenge_data_ia/</guid>
     <description><![CDATA[The challenge: This challenge was organized by Ens&rsquo;IA and Neovision in 2021. It lasted a month and a half and was about the well known subject of Optical Character Recognition (OCR).
 What is OCR ? It&rsquo;s about converting images of typed, handwritten or printed text into machine-encoded text. Learn more ➡️ The goal was quite simple but still very challenging:
 building the best model to recognize the characters in the dataset given by Neovision.]]></description>

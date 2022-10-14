@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Shell - Tag - Maxime Nemo Website</title>
-        <link>https://maximene.github.io/AboutMe.github.io/tags/shell/</link>
+        <link>https://maximene.github.io/tags/shell/</link>
         <description>Shell - Tag - Maxime Nemo Website</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
-            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Thu, 01 Oct 2020 21:01:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/AboutMe.github.io/tags/shell/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Thu, 01 Oct 2020 21:01:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/tags/shell/" rel="self" type="application/rss+xml" /><item>
     <title>TodoList implementation</title>
-    <link>https://maximene.github.io/AboutMe.github.io/posts/todolist/</link>
+    <link>https://maximene.github.io/posts/todolist/</link>
     <pubDate>Thu, 01 Oct 2020 21:01:41 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>https://maximene.github.io/AboutMe.github.io/posts/todolist/</guid>
+    <guid>https://maximene.github.io/posts/todolist/</guid>
     <description><![CDATA[The project I always wanted to have a todolist on my desktop (I use Gnome). I made few research for widget on the internet, did not find what I was looking for, so I decided to make my own.
 I wanted something that does not consume too much power, that is easy to use (as fast as possible to add something in a terminal) and free.
 What I built I have chosen to create a todolist that actually changes the background of my computer, so that the consumption of my todolist is down to 0 when I am not changing anything.]]></description>
