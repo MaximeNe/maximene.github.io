@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tips - Tag - Maxime Nemo Website</title>
+        <link>https://maximene.github.io/tags/tips/</link>
+        <description>Tips - Tag - Maxime Nemo Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Sat, 29 Oct 2022 21:02:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/tags/tips/" rel="self" type="application/rss+xml" /><item>
+    <title>Why I quit google analytics and how I replaced it</title>
+    <link>https://maximene.github.io/posts/personnal_website/</link>
+    <pubDate>Sat, 29 Oct 2022 21:02:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/posts/personnal_website/</guid>
+    <description><![CDATA[What is GDPR (RGPD in french) and why it&rsquo;s important ? GDPR is a regulation in EU law on data protection and privacy in the European Union and the European Economic Area (EEA). It also addresses the transfer of personal data outside the EU and EEA. It applies to all companies that offer goods or services to people in the EU, or that monitor the behavior of people in the EU.]]></description>
+</item></channel>
+</rss>

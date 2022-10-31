@@ -4,7 +4,14 @@
         <link>https://maximene.github.io/posts/</link>
         <description>All Posts | Maxime Nemo Website</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
-            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Tue, 30 Aug 2022 21:02:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Sat, 29 Oct 2022 21:02:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Why I quit google analytics and how I replaced it</title>
+    <link>https://maximene.github.io/posts/personnal_website/</link>
+    <pubDate>Sat, 29 Oct 2022 21:02:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/posts/personnal_website/</guid>
+    <description><![CDATA[What is GDPR (RGPD in french) and why it&rsquo;s important ? GDPR is a regulation in EU law on data protection and privacy in the European Union and the European Economic Area (EEA). It also addresses the transfer of personal data outside the EU and EEA. It applies to all companies that offer goods or services to people in the EU, or that monitor the behavior of people in the EU.]]></description>
+</item><item>
     <title>Ens&#39;IA association</title>
     <link>https://maximene.github.io/posts/ensia/</link>
     <pubDate>Tue, 30 Aug 2022 21:02:41 &#43;0200</pubDate>
@@ -80,14 +87,5 @@ The syntax analysis (Lexer and Parser) input : source program output : primitive
     <description><![CDATA[The project The e-commerce company for individuals, Gange, wants us to set up a database to better manage the products they offer for sale.
 The sales are based auction mode:
 Users make increasing bids on available products and the 5th bid wins. The auction mode is not important, it can should changed easily, and is not known by Gange&rsquo;s customers. The products are categorized and and a recommendation mode should be implemented.]]></description>
-</item><item>
-    <title>Multi-agent simulators | Ensimag&#39;s Project</title>
-    <link>https://maximene.github.io/posts/simulators/</link>
-    <pubDate>Sun, 28 Nov 2021 21:01:41 &#43;0200</pubDate>
-    <author>Author</author>
-    <guid>https://maximene.github.io/posts/simulators/</guid>
-    <description><![CDATA[The project With two teamates, we implemented 5 different multi-agent simulators using only java.
-Every simulator we implemented is using an event manager to handle the execution of the next step of the simulation.
-Balls simulator Ball simulator in action Cellular simulators Conway&rsquo;s game of life. Conway's game of life in action Immigration game Immigration game simulator Schelling model Schelling model simulator Boids simulator Boid simulator What is a boid simulator?]]></description>
 </item></channel>
 </rss>
