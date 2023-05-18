@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>IOT - Tag - Maxime Nemo Website</title>
+        <link>https://maximene.github.io/tags/iot/</link>
+        <description>IOT - Tag - Maxime Nemo Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Sun, 01 Jan 2023 10:29:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/tags/iot/" rel="self" type="application/rss+xml" /><item>
+    <title>IOT project : Ambilight | Ensimag&#39;s project</title>
+    <link>https://maximene.github.io/posts/iot-project/</link>
+    <pubDate>Sun, 01 Jan 2023 10:29:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/posts/iot-project/</guid>
+    <description><![CDATA[Introduction Ambilite is the ideal solution to improve your viewing experience. Thanks to our technology, you can synchronize the LEDs behind your screen with the image displayed the displayed image for a total immersion in your movie or video. Our product is similar to Philips Ambilight technology, but is compatible with all screens, unlike Ambilight which is only available on some TVs or with an HDMI adapter which HDMI adapter which limits functionality and adds latency.]]></description>
+</item></channel>
+</rss>

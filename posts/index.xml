@@ -4,7 +4,22 @@
         <link>https://maximene.github.io/posts/</link>
         <description>All Posts | Maxime Nemo Website</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
-            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Fri, 09 Dec 2022 08:02:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Sun, 01 Jan 2023 10:29:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Challenge Open Data | Ensimag&#39;s project</title>
+    <link>https://maximene.github.io/posts/opendata/</link>
+    <pubDate>Sun, 01 Jan 2023 10:29:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/posts/opendata/</guid>
+    <description><![CDATA[Description The goal is to create a data visualization of an open data set.
+Results Click here to go on the page]]></description>
+</item><item>
+    <title>IOT project : Ambilight | Ensimag&#39;s project</title>
+    <link>https://maximene.github.io/posts/iot-project/</link>
+    <pubDate>Sun, 01 Jan 2023 10:29:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/posts/iot-project/</guid>
+    <description><![CDATA[Introduction Ambilite is the ideal solution to improve your viewing experience. Thanks to our technology, you can synchronize the LEDs behind your screen with the image displayed the displayed image for a total immersion in your movie or video. Our product is similar to Philips Ambilight technology, but is compatible with all screens, unlike Ambilight which is only available on some TVs or with an HDMI adapter which HDMI adapter which limits functionality and adds latency.]]></description>
+</item><item>
     <title>Les nouvelles technologies en IA vont impacter beaucoup de métiers | [French only]</title>
     <link>https://maximene.github.io/posts/new_tech_in_ai/</link>
     <pubDate>Fri, 09 Dec 2022 08:02:41 &#43;0200</pubDate>
@@ -70,24 +85,5 @@ Machine Learning with KNN and K-Means Deep learning in computer vision (perceptr
     <author>Author</author>
     <guid>https://maximene.github.io/posts/blob_war/</guid>
     <description><![CDATA[The game Blobwar is played on an 8x8 chessboard where two players (blue and red) compete. Each player has a set of pieces called blobs. The game is played turn by turn. Each turn, whenever possible, the current player chooses a blob and moves it. Any move to an adjacent square (including diagonally) sees the blob duplicated on the target square. It is also possible to jump to a distance of 2 squares, but in this case the blob moves from the starting square to the target square (so there is no duplication).]]></description>
-</item><item>
-    <title>Challenge Neovision x Ens&#39;IA 2022</title>
-    <link>https://maximene.github.io/posts/challenge2022/</link>
-    <pubDate>Tue, 01 Feb 2022 10:29:41 &#43;0200</pubDate>
-    <author>Author</author>
-    <guid>https://maximene.github.io/posts/challenge2022/</guid>
-    <description><![CDATA[Introduction I organized this challenge with Hugo Cartigny and Neovision. We worked hard on this edition for almost an entire year.
-There was approximately 50 participants for this edition.
-Below is the official description of the challenge.
-What is this challenge about? This is an artificial intelligence challenge organized jointly by Neovision and Ens&rsquo;IA. For the second edition of this challenge, participants had to create an AI, but don&rsquo;t panic: Neovision coaches will were there to accompany them.]]></description>
-</item><item>
-    <title>Software engineering project | Ensimag&#39;s Project</title>
-    <link>https://maximene.github.io/posts/projet_gl/</link>
-    <pubDate>Mon, 31 Jan 2022 21:01:41 &#43;0200</pubDate>
-    <author>Author</author>
-    <guid>https://maximene.github.io/posts/projet_gl/</guid>
-    <description><![CDATA[What is the project about ? The goal is to build in Java a compiler with no default for a language called Deca (Java like language)
-The compilation process is divided into 3 steps :
-The syntax analysis (Lexer and Parser) input : source program output : primitive abstract tree The contextual verification input : primitive abstract tree output : abstract tree decorated The code generation for an abstract machine input : abstract tree decorated output : assembly program Finally, the project is also composed of a theme of our choice.]]></description>
 </item></channel>
 </rss>
