@@ -3,8 +3,16 @@
         <title>AI - Tag - Maxime Nemo Website</title>
         <link>https://maximene.github.io/tags/ai/</link>
         <description>AI - Tag - Maxime Nemo Website</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
-            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Fri, 09 Dec 2022 08:02:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/tags/ai/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>max71ne@gmail.com (Maxime NEMO)</managingEditor>
+            <webMaster>max71ne@gmail.com (Maxime NEMO)</webMaster><lastBuildDate>Fri, 18 Aug 2023 10:29:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/tags/ai/" rel="self" type="application/rss+xml" /><item>
+    <title>Log Analysis Application Development Project</title>
+    <link>https://maximene.github.io/posts/log_analysis/</link>
+    <pubDate>Fri, 18 Aug 2023 10:29:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/posts/log_analysis/</guid>
+    <description><![CDATA[Summary of the Log Analysis Application Development Project This project is focused on developing an internal application for log analysis using Machine Learning (ML).
+Context and Motivation With the exponential growth of digital services, log analysis has become an increasingly important area of study. Logs are generated in massive quantities by various systems, making manual analysis infeasible. Automated tools are necessary to manage these logs effectively. The goal of the project was to develop an internal solution capable of analyzing logs to monitor the state of SOLUTEC’s IT systems and detect anomalies in internal systems under development.]]></description>
+</item><item>
     <title>Les nouvelles technologies en IA vont impacter beaucoup de métiers | [French only]</title>
     <link>https://maximene.github.io/posts/new_tech_in_ai/</link>
     <pubDate>Fri, 09 Dec 2022 08:02:41 &#43;0200</pubDate>
@@ -71,7 +79,7 @@ What is this challenge about? This is an artificial intelligence challenge organ
     <pubDate>Wed, 03 Nov 2021 17:40:42 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://maximene.github.io/posts/virtual_drag_and_drop/</guid>
-    <description><![CDATA[VirtualDragAndDrop I was kind of bored a week end so I wanted to do something that will be absolutely never used again 🙃.
+    <description><![CDATA[VirtualDragAndDrop I was kind of bored a week end so I wanted to do something that will be absolutely never used again &#x1f643;.
 This little project allowed me to get in touch with OpenCV and image processing.
 The program I built creates a virtual drag and drop on objects represented by their centers. I used rectangle for this example.
 To use the program, just run the file main.py. Then to move an object, you have to &ldquo;grab it&rdquo; = close your hand when your hand is on the object.]]></description>
@@ -82,7 +90,7 @@ To use the program, just run the file main.py. Then to move an object, you have 
     <author>Author</author>
     <guid>https://maximene.github.io/posts/challenge_data_ia/</guid>
     <description><![CDATA[The challenge: This challenge was organized by Ens&rsquo;IA and Neovision in 2021. It lasted a month and a half and was about the well known subject of Optical Character Recognition (OCR).
-What is OCR ? It&rsquo;s about converting images of typed, handwritten or printed text into machine-encoded text. Learn more ➡️ The goal was quite simple but still very challenging:
+What is OCR ?It&rsquo;s about converting images of typed, handwritten or printed text into machine-encoded text. Learn more&#x27a1;&#xfe0f; The goal was quite simple but still very challenging:
 building the best model to recognize the characters in the dataset given by Neovision.]]></description>
 </item></channel>
 </rss>

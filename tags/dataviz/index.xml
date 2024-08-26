@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>dataviz - Tag - Maxime Nemo Website</title>
+        <title>Dataviz - Tag - Maxime Nemo Website</title>
         <link>https://maximene.github.io/tags/dataviz/</link>
-        <description>dataviz - Tag - Maxime Nemo Website</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
-            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Sun, 01 Jan 2023 10:29:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/tags/dataviz/" rel="self" type="application/rss+xml" /><item>
+        <description>Dataviz - Tag - Maxime Nemo Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>max71ne@gmail.com (Maxime NEMO)</managingEditor>
+            <webMaster>max71ne@gmail.com (Maxime NEMO)</webMaster><lastBuildDate>Sun, 01 Jan 2023 10:29:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/tags/dataviz/" rel="self" type="application/rss+xml" /><item>
     <title>Challenge Open Data | Ensimag&#39;s project</title>
     <link>https://maximene.github.io/posts/opendata/</link>
     <pubDate>Sun, 01 Jan 2023 10:29:41 &#43;0200</pubDate>

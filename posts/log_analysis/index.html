@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <title>Log Analysis Application Development Project - Maxime Nemo Website</title><meta name="Description" content="Development of a log analysis app"><meta property="og:url" content="https://maximene.github.io/posts/log_analysis/">
+  <meta property="og:site_name" content="Maxime Nemo Website">
+  <meta property="og:title" content="Log Analysis Application Development Project">
+  <meta property="og:description" content="Development of a log analysis app">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2023-08-18T10:29:41+02:00">
+    <meta property="article:modified_time" content="2023-08-18T10:29:41+02:00">
+    <meta property="article:tag" content="AI">
+    <meta property="article:tag" content="Research">
+    <meta property="article:tag" content="Java">
+    <meta property="article:tag" content="FullStack">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Log Analysis Application Development Project">
+  <meta name="twitter:description" content="Development of a log analysis app">
+<meta name="application-name" content="Maxime Nemo Website">
+<meta name="apple-mobile-web-app-title" content="Maxime Nemo Website">
+<script> var script = document.createElement('script'); script.dataset.websiteId = 'da3529ce-6be4-412f-a6bc-1b990084267d'; script.src = 'https://s.abla.io/abla.js'; document.getElementsByTagName('head')[0].appendChild(script);</script><link rel="icon" href="favicon.ico"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://maximene.github.io/posts/log_analysis/" /><link rel="prev" href="https://maximene.github.io/posts/opendata/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Log Analysis Application Development Project",
+        "inLanguage": "en",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/maximene.github.io\/posts\/log_analysis\/"
+        },"genre": "posts","keywords": "AI, Research, Java, FullStack","wordcount":  441 ,
+        "url": "https:\/\/maximene.github.io\/posts\/log_analysis\/","datePublished": "2023-08-18T10:29:41+02:00","dateModified": "2023-08-18T10:29:41+02:00","publisher": {
+            "@type": "Organization",
+            "name": "Maxime"},"author": {
+                "@type": "Person",
+                "name": "Maxime"
+            },"description": "Development of a log analysis app"
+    }
+    </script></head>
+    <body header-desktop="auto" header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="Maxime Nemo Website"><span class="header-title-pre"><img src="https://img.icons8.com/ios/50/undefined/laptop-coding.png"/></span><span id="id-1" class="typeit"></span></a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/posts/" title="Discover what I do"> My Work </a><a class="menu-item" href="/posts/school_curriculum/" title="Discover what I learned"> School Curriculum </a><a class="menu-item" href="/tags/" title="Find content by tags"> Tags </a><a class="menu-item" href="/aboutme" title="Learn more about me"> About Me </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                    <i class="fas fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="Maxime Nemo Website"><span class="header-title-pre"><img src="https://img.icons8.com/ios/50/undefined/laptop-coding.png"/></span><span id="id-2" class="typeit"></span></a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/posts/" title="Discover what I do">My Work</a><a class="menu-item" href="/posts/school_curriculum/" title="Discover what I learned">School Curriculum</a><a class="menu-item" href="/tags/" title="Find content by tags">Tags</a><a class="menu-item" href="/aboutme" title="Learn more about me">About Me</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a></div>
+    </div>
+</header>
+<div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+</div>
+<main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">Contents</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animated flipInX">Log Analysis Application Development Project</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>Maxime</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2023-08-18">2023-08-18</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;441 words&nbsp;
+                <i class="far fa-clock fa-fw"></i>&nbsp;3 minutes&nbsp;</div>
+        </div><div class="details toc" id="toc-static"  kept="">
+                <div class="details-summary toc-title">
+                    <span>Contents</span>
+                    <span><i class="details-icon fas fa-angle-right"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#summary-of-the-log-analysis-application-development-project">Summary of the Log Analysis Application Development Project</a></li>
+        <li><a href="#context-and-motivation">Context and Motivation</a></li>
+        <li><a href="#problem-statement">Problem Statement</a></li>
+        <li><a href="#methodology">Methodology</a></li>
+        <li><a href="#technical-solution">Technical Solution</a></li>
+        <li><a href="#results-and-analysis">Results and Analysis</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><h3 id="summary-of-the-log-analysis-application-development-project">Summary of the Log Analysis Application Development Project</h3>
+<p>This project is focused on developing an internal application for log analysis using Machine Learning (ML).</p>
+<h3 id="context-and-motivation">Context and Motivation</h3>
+<p>With the exponential growth of digital services, log analysis has become an increasingly important area of study. Logs are generated in massive quantities by various systems, making manual analysis infeasible. Automated tools are necessary to manage these logs effectively. The goal of the project was to develop an internal solution capable of analyzing logs to monitor the state of SOLUTEC’s IT systems and detect anomalies in internal systems under development.</p>
+<h3 id="problem-statement">Problem Statement</h3>
+<p>The need for automated log analysis tools has grown alongside the complexity of IT systems. Traditional manual log inspection is no longer viable due to the volume of logs generated and the complexity of the distributed systems producing them. Automated log analysis serves several key purposes: optimizing resource allocation, enhancing security by detecting anomalies, improving system performance, and generating reports for business analytics.</p>
+<h3 id="methodology">Methodology</h3>
+<p>The project involved a comprehensive exploration of existing log analysis solutions, including both open-source and commercial tools. The chosen approach was to develop a custom solution that would integrate seamlessly with SOLUTEC’s existing systems while leveraging the power of Machine Learning to automate and improve the accuracy of log analysis.</p>
+<p>The project followed an Agile methodology, with development broken down into iterative cycles. Key stages included defining the technical architecture, selecting appropriate ML algorithms, and developing the application’s core functionalities.</p>
+<h3 id="technical-solution">Technical Solution</h3>
+<p>The final application architecture was designed to handle the sequential processing of logs, including centralization, parsing, anomaly prediction, and metric analysis. Specific algorithms were implemented to analyze the logs in real-time, detect anomalies, and generate alerts. The application also included features for visualizing performance metrics and anticipating potential system issues based on historical log data.</p>
+<p>The solution was evaluated using a rigorous testing protocol to ensure its accuracy and efficiency. Performance metrics, such as the precision of log analysis and resource utilization, were key evaluation criteria.</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="image.png"
+        data-srcset="/posts/log_analysis/image.png, image.png 1.5x, /posts/log_analysis/image.png 2x"
+        data-sizes="auto"
+        alt="/posts/log_analysis/image.png"
+        title="illustration" /></p>
+<h3 id="results-and-analysis">Results and Analysis</h3>
+<p>The project yielded significant insights into the performance of different ML algorithms in log analysis. The developed application was capable of accurately detecting anomalies and provided useful metrics for system monitoring. The testing phase highlighted the application&rsquo;s strengths, particularly in terms of scalability and adaptability to different types of logs.</p>
+<p>The project also considered the environmental and societal impact of the developed solution. Efforts were made to minimize the environmental footprint of the application, aligning with the principles of GreenIT. The societal impact was also addressed, ensuring that the application could contribute positively to the broader IT ecosystem by improving the reliability and security of IT infrastructures.</p>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>Updated on 2023-08-18</span>
+            </div>
+            <div class="post-info-license"></div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md"></div>
+            <div class="post-info-share">
+                <span></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/ai/">AI</a>,&nbsp;<a href="/tags/research/">Research</a>,&nbsp;<a href="/tags/java/">Java</a>,&nbsp;<a href="/tags/fullstack/">FullStack</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/posts/opendata/" class="prev" rel="prev" title="Challenge Open Data | Ensimag&#39;s project"><i class="fas fa-angle-left fa-fw"></i>Challenge Open Data | Ensimag&#39;s project</a></div>
+</div>
+</article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line">Maxime NEMO website, built with <3 and Hugo</div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2020 - 2024</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">Maxime NEMO</a></span></div>
+        </div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
+                <i class="fas fa-arrow-up fa-fw"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
+                <i class="fas fa-comment fa-fw"></i>
+            </a>
+        </div><link rel="stylesheet" href="/lib/katex/katex.min.css"><script type="text/javascript" src="/lib/smooth-scroll/smooth-scroll.min.js"></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lib/typeit/typeit.min.js"></script><script type="text/javascript" src="/lib/katex/katex.min.js"></script><script type="text/javascript" src="/lib/katex/auto-render.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":10},"comment":{},"data":{"id-1":"Maxime NEMO","id-2":"Maxime NEMO"},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"typeit":{"cursorChar":null,"cursorSpeed":null,"data":{"id-1":["id-1"],"id-2":["id-2"]},"duration":null,"speed":null}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>

@@ -3,8 +3,16 @@
         <title>Java - Tag - Maxime Nemo Website</title>
         <link>https://maximene.github.io/tags/java/</link>
         <description>Java - Tag - Maxime Nemo Website</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
-            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Mon, 31 Jan 2022 21:01:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/tags/java/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>max71ne@gmail.com (Maxime NEMO)</managingEditor>
+            <webMaster>max71ne@gmail.com (Maxime NEMO)</webMaster><lastBuildDate>Fri, 18 Aug 2023 10:29:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/tags/java/" rel="self" type="application/rss+xml" /><item>
+    <title>Log Analysis Application Development Project</title>
+    <link>https://maximene.github.io/posts/log_analysis/</link>
+    <pubDate>Fri, 18 Aug 2023 10:29:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/posts/log_analysis/</guid>
+    <description><![CDATA[Summary of the Log Analysis Application Development Project This project is focused on developing an internal application for log analysis using Machine Learning (ML).
+Context and Motivation With the exponential growth of digital services, log analysis has become an increasingly important area of study. Logs are generated in massive quantities by various systems, making manual analysis infeasible. Automated tools are necessary to manage these logs effectively. The goal of the project was to develop an internal solution capable of analyzing logs to monitor the state of SOLUTEC’s IT systems and detect anomalies in internal systems under development.]]></description>
+</item><item>
     <title>Software engineering project | Ensimag&#39;s Project</title>
     <link>https://maximene.github.io/posts/projet_gl/</link>
     <pubDate>Mon, 31 Jan 2022 21:01:41 &#43;0200</pubDate>
@@ -30,6 +38,6 @@ Users make increasing bids on available products and the 5th bid wins. The aucti
     <guid>https://maximene.github.io/posts/simulators/</guid>
     <description><![CDATA[The project With two teamates, we implemented 5 different multi-agent simulators using only java.
 Every simulator we implemented is using an event manager to handle the execution of the next step of the simulation.
-Balls simulator Ball simulator in action Cellular simulators Conway&rsquo;s game of life. Conway's game of life in action Immigration game Immigration game simulator Schelling model Schelling model simulator Boids simulator Boid simulator What is a boid simulator?]]></description>
+Balls simulator Ball simulator in actionCellular simulators Conway&rsquo;s game of life. Conway's game of life in actionImmigration game Immigration game simulatorSchelling model Schelling model simulatorBoids simulator Boid simulatorWhat is a boid simulator?]]></description>
 </item></channel>
 </rss>

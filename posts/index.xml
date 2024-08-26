@@ -3,8 +3,16 @@
         <title>All Posts - Maxime Nemo Website</title>
         <link>https://maximene.github.io/posts/</link>
         <description>All Posts | Maxime Nemo Website</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
-            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Sun, 01 Jan 2023 10:29:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>max71ne@gmail.com (Maxime NEMO)</managingEditor>
+            <webMaster>max71ne@gmail.com (Maxime NEMO)</webMaster><lastBuildDate>Fri, 18 Aug 2023 10:29:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Log Analysis Application Development Project</title>
+    <link>https://maximene.github.io/posts/log_analysis/</link>
+    <pubDate>Fri, 18 Aug 2023 10:29:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/posts/log_analysis/</guid>
+    <description><![CDATA[Summary of the Log Analysis Application Development Project This project is focused on developing an internal application for log analysis using Machine Learning (ML).
+Context and Motivation With the exponential growth of digital services, log analysis has become an increasingly important area of study. Logs are generated in massive quantities by various systems, making manual analysis infeasible. Automated tools are necessary to manage these logs effectively. The goal of the project was to develop an internal solution capable of analyzing logs to monitor the state of SOLUTEC’s IT systems and detect anomalies in internal systems under development.]]></description>
+</item><item>
     <title>Challenge Open Data | Ensimag&#39;s project</title>
     <link>https://maximene.github.io/posts/opendata/</link>
     <pubDate>Sun, 01 Jan 2023 10:29:41 &#43;0200</pubDate>
@@ -78,12 +86,5 @@ More about the project The App should allow users to create stories and share th
     <description><![CDATA[Introduction As a member of Ens&rsquo;IA, I give lectures and lab works about artificial intelligence.
 In 2021/2022, @Hugo Cartigny and I gave lectures and lab works about
 Machine Learning with KNN and K-Means Deep learning in computer vision (perceptron, sigmoid neuron, neural networks, convolutional neural nerworks &hellip;) Data processing for computer vision As you can see, we did not talk about Reinforcement Learning yet, so I dicided to build a course about it, especially about Q-Learning]]></description>
-</item><item>
-    <title>BlowWar AI | Ensimag&#39;s Project</title>
-    <link>https://maximene.github.io/posts/blob_war/</link>
-    <pubDate>Wed, 06 Apr 2022 11:05:23 &#43;0200</pubDate>
-    <author>Author</author>
-    <guid>https://maximene.github.io/posts/blob_war/</guid>
-    <description><![CDATA[The game Blobwar is played on an 8x8 chessboard where two players (blue and red) compete. Each player has a set of pieces called blobs. The game is played turn by turn. Each turn, whenever possible, the current player chooses a blob and moves it. Any move to an adjacent square (including diagonally) sees the blob duplicated on the target square. It is also possible to jump to a distance of 2 squares, but in this case the blob moves from the starting square to the target square (so there is no duplication).]]></description>
 </item></channel>
 </rss>

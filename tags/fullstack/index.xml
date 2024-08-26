@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>FullStack - Tag - Maxime Nemo Website</title>
+        <link>https://maximene.github.io/tags/fullstack/</link>
+        <description>FullStack - Tag - Maxime Nemo Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>max71ne@gmail.com (Maxime NEMO)</managingEditor>
+            <webMaster>max71ne@gmail.com (Maxime NEMO)</webMaster><lastBuildDate>Fri, 18 Aug 2023 10:29:41 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/tags/fullstack/" rel="self" type="application/rss+xml" /><item>
+    <title>Log Analysis Application Development Project</title>
+    <link>https://maximene.github.io/posts/log_analysis/</link>
+    <pubDate>Fri, 18 Aug 2023 10:29:41 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://maximene.github.io/posts/log_analysis/</guid>
+    <description><![CDATA[Summary of the Log Analysis Application Development Project This project is focused on developing an internal application for log analysis using Machine Learning (ML).
+Context and Motivation With the exponential growth of digital services, log analysis has become an increasingly important area of study. Logs are generated in massive quantities by various systems, making manual analysis infeasible. Automated tools are necessary to manage these logs effectively. The goal of the project was to develop an internal solution capable of analyzing logs to monitor the state of SOLUTEC’s IT systems and detect anomalies in internal systems under development.]]></description>
+</item></channel>
+</rss>

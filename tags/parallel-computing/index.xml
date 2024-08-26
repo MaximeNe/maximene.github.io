@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Parallel computing - Tag - Maxime Nemo Website</title>
+        <title>Parallel Computing - Tag - Maxime Nemo Website</title>
         <link>https://maximene.github.io/tags/parallel-computing/</link>
-        <description>Parallel computing - Tag - Maxime Nemo Website</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</managingEditor>
-            <webMaster>Maxime.Nemo@grenoble-inp.org (Maxime NEMO)</webMaster><lastBuildDate>Wed, 06 Apr 2022 11:05:23 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/tags/parallel-computing/" rel="self" type="application/rss+xml" /><item>
+        <description>Parallel Computing - Tag - Maxime Nemo Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>max71ne@gmail.com (Maxime NEMO)</managingEditor>
+            <webMaster>max71ne@gmail.com (Maxime NEMO)</webMaster><lastBuildDate>Wed, 06 Apr 2022 11:05:23 &#43;0200</lastBuildDate><atom:link href="https://maximene.github.io/tags/parallel-computing/" rel="self" type="application/rss+xml" /><item>
     <title>BlowWar AI | Ensimag&#39;s Project</title>
     <link>https://maximene.github.io/posts/blob_war/</link>
     <pubDate>Wed, 06 Apr 2022 11:05:23 &#43;0200</pubDate>
